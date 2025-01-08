@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\burru\OneDrive\Desktop\New folder\uha\selenium_project\src\main\java\launcher\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
